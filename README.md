@@ -1,0 +1,2 @@
+# shiritorimemogames
+しりとりメモゲームです
